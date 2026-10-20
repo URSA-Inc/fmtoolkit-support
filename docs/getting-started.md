@@ -6,6 +6,6 @@ FMToolkit checks whether your code still does what it used to after a change - a
 
 In the meantime:
 
-- Install the app from [GitHub Marketplace](https://github.com/marketplace/formal-methods-tool).
+- Install the app from its [GitHub App page](https://github.com/apps/formal-methods-toolkit).
 - Questions? Ask in [Discussions](https://github.com/URSA-Inc/fmtoolkit-support/discussions).
 - Learn more, including product videos, at [fmt.ursasecure.com/fmtoolkit](https://fmt.ursasecure.com/fmtoolkit).
